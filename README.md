@@ -19,11 +19,12 @@ pytest
 
 ## Prerequisites:
 Make sure you have the following installed:
-- Python 3.7+
+- Python 3.12+
 - Poetry (for dependency management)
 
 ### Clone the repository
 
 ```bash
 git clone https://github.com/murad755/petstore_crud_test.git
-cd repo-name
+cd petstore_crud_test
+```
